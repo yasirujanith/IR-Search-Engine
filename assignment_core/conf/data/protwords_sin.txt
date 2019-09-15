@@ -1,0 +1,68 @@
+﻿# The ASF licenses this file to You under the Apache License, Version 2.0
+# (the "License"); you may not use this file except in compliance with
+# the License.  You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+#-----------------------------------------------------------------------
+# Use a protected word file to protect against the stemmer reducing two
+# unrelated words to the same base word.
+
+# Some non-words that normally won't be encountered,
+# just to test that they won't be stemmed.
+
+සඳුදා
+අඟහරුවාදා
+බදාදා
+බ්‍රහස්පතින්දා
+සිකුරාදා
+සෙනසුරාදා
+ඉරිදා
+ජනවාරි
+පෙබරවාරි
+මාර්තු
+අප්‍රේල්
+මැයි
+ජුනි
+ජූලි
+අගෝස්තු
+සැප්තැම්බර්
+ඔක්තෝම්බර්
+නොවැම්බර්
+දෙසැම්බර්
+ඉලංකෙයි
+තමිල්
+අරසු
+කච්චි
+ඩාවින්
+සරත්
+ෆොන්සේකා
+සමන්සිරි
+දිසානායක
+පාස්කු
+විමල්
+වීරවංශ
+රිෂාඩ්
+බදියුද්දීන්
+ලසිත්
+මාලිංග
+අහමඩ්
+මිල්හාන්
+රාජ්
+සෝමදේව
+අස්ගිරි
+නාගානන්ද
+කොඩිතුවක්කු
+වසීම්
+තාජුදීන්
+දලයි
+ලාමා
+වරකාගොඩ
+ඥානරතන
+දංකොටුව
